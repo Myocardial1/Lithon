@@ -1,4 +1,4 @@
-FROM Alsarot09/Y_H_E:alpine
+FROM Alsarot09/S_1_02:alpine
 
 #clonning repo 
 RUN git clone https://github.com/Alsarot09/Y_H_E/tree/master.git /root/zthon
